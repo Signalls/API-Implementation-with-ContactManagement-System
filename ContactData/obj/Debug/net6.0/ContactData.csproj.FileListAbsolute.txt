@@ -1,0 +1,17 @@
+C:\Project\ContactData\bin\Debug\net6.0\ContactData.deps.json
+C:\Project\ContactData\bin\Debug\net6.0\ContactData.runtimeconfig.json
+C:\Project\ContactData\bin\Debug\net6.0\ContactData.dll
+C:\Project\ContactData\bin\Debug\net6.0\ContactData.pdb
+C:\Project\ContactData\bin\Debug\net6.0\ContactModel.dll
+C:\Project\ContactData\bin\Debug\net6.0\ContactModel.pdb
+C:\Project\ContactData\obj\Debug\net6.0\ContactData.csproj.AssemblyReference.cache
+C:\Project\ContactData\obj\Debug\net6.0\ContactData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\ContactData\obj\Debug\net6.0\ContactData.AssemblyInfoInputs.cache
+C:\Project\ContactData\obj\Debug\net6.0\ContactData.AssemblyInfo.cs
+C:\Project\ContactData\obj\Debug\net6.0\ContactData.csproj.CoreCompileInputs.cache
+C:\Project\ContactData\obj\Debug\net6.0\ContactData.csproj.CopyComplete
+C:\Project\ContactData\obj\Debug\net6.0\ContactData.dll
+C:\Project\ContactData\obj\Debug\net6.0\refint\ContactData.dll
+C:\Project\ContactData\obj\Debug\net6.0\ContactData.pdb
+C:\Project\ContactData\obj\Debug\net6.0\ContactData.genruntimeconfig.cache
+C:\Project\ContactData\obj\Debug\net6.0\ref\ContactData.dll

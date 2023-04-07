@@ -1,0 +1,12 @@
+C:\Project\ContactModel\bin\Debug\net6.0\ContactModel.deps.json
+C:\Project\ContactModel\bin\Debug\net6.0\ContactModel.dll
+C:\Project\ContactModel\bin\Debug\net6.0\ContactModel.pdb
+C:\Project\ContactModel\obj\Debug\net6.0\ContactModel.csproj.AssemblyReference.cache
+C:\Project\ContactModel\obj\Debug\net6.0\ContactModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\ContactModel\obj\Debug\net6.0\ContactModel.AssemblyInfoInputs.cache
+C:\Project\ContactModel\obj\Debug\net6.0\ContactModel.AssemblyInfo.cs
+C:\Project\ContactModel\obj\Debug\net6.0\ContactModel.csproj.CoreCompileInputs.cache
+C:\Project\ContactModel\obj\Debug\net6.0\ContactModel.dll
+C:\Project\ContactModel\obj\Debug\net6.0\refint\ContactModel.dll
+C:\Project\ContactModel\obj\Debug\net6.0\ContactModel.pdb
+C:\Project\ContactModel\obj\Debug\net6.0\ref\ContactModel.dll
